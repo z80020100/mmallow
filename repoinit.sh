@@ -1,6 +1,6 @@
 #!/bin/bash
 
-project_path=${HOME}/project/geekbox/mmallow
+project_path=${PWD}/../source/geekbox_rk3368_marshmallow
 repo_prefix=mmallow
 github_urlbase=https://github.com/geekboxzone
 MAXTRYNUM=3
